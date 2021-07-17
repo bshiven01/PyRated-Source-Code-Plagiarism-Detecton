@@ -19,7 +19,7 @@ The multi-layered approach was adopted from this [paper](https://research.ijcaon
 
 The complete repo or the project can be found [here](https://github.com/Team-PyRated/PyRated).
 
-The final documentation can be found [here](https://docs.google.com/document/d/146Hrbl5qcjx6Rr3uuqSimjE3Emh22gu69EVHmhe9cE0/edit?usp=sharing) and the video presentation can be found [here]().
+The final documentation can be found [here](https://docs.google.com/document/d/146Hrbl5qcjx6Rr3uuqSimjE3Emh22gu69EVHmhe9cE0/edit?usp=sharing) and the video presentation can be found [here](https://drive.google.com/file/d/19YfcWDCbN3bJTZ-Sl0uTD_edfXyxKdT6/view?usp=sharing).
 
 ***
 
