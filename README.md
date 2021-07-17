@@ -11,7 +11,7 @@ A brief overview of the files/folders in this repo is as follows:
 * [Indentation](https://github.com/bshiven01/WnCC_SOC_PyRated/tree/main/Indentation) contains the code for indentation comparison in Layer 1 and sample files for comparison
 * [bagofwords_shiven](https://github.com/bshiven01/WnCC_SOC_PyRated/tree/main/bagofwords_shiven.py) contains the code for the bag of words approach used in Layer 0
 * [data_slicing](https://github.com/bshiven01/WnCC_SOC_PyRated/tree/main/data_slicing.py) contains the code for a data_slicing approach used in Layer 3 (not included in final submission)
-* Final folder contains the complete program for the plagiarism detector (team contribution)
+* [Final](https://github.com/bshiven01/WnCC_SoC_PyRated/tree/main/Final) folder contains the complete program for the plagiarism detector (team contribution)
 
 *Note: The files in this repo are the final iterations. Intermediate versions/iterations were not included as most of them were lost owing to technical difficulties.* 
 
