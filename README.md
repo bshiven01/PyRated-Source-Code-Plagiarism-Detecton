@@ -1,5 +1,5 @@
 # WnCC_SOC_PyRated
-This repository contatins my contribution for the WnCC Seasons of Code '21 Project - **PyRated**, which aims to develop a source code plagiarism detector using Python. The mentors for this project were:
+This repository contatins my contribution for the WnCC [Seasons of Code](https://wncc-iitb.org/soc/) '21 Project - **PyRated**, which aims to develop a source code plagiarism detector using Python. The mentors for this project were:
 * [Tulip Pandey](https://github.com/tulip16)
 * [Vibhav Aggarwal](https://github.com/vibhav011)
 
@@ -21,9 +21,10 @@ The complete repo or the project can be found [here](https://github.com/Team-PyR
 
 The final documentation can be found [here](https://docs.google.com/document/d/146Hrbl5qcjx6Rr3uuqSimjE3Emh22gu69EVHmhe9cE0/edit?usp=sharing) and the video presentation can be found [here]().
 
+***
+
 In case of any queries, contact
 
 [Shiven Barbare](https://github.com/bshiven01)
+
 [barbareshiven@gmail.com](barbareshiven@gmail.com)
-
-
